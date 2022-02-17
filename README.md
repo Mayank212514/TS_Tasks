@@ -29,8 +29,11 @@ Task 2 Solution:
 Other thing that can be added is to check the for all the sterne whether the filter option is working or not for all other stars.
 
 2. (i) I would recommend to check all the links such as Zur Website, Wie berechnet sich die Note?, etc. are working properly or not like whether it is leading to the required destination page or not.
+
 (ii) Alle positiven Bewertungen anzeigen and Alle kritischen Bewertungen anzeigen whether these are displaying only positive and Negative reviews respectively or not.
+
 (iii) After clicking on bar of the stars whether it is filtering as per the clicked bar or not (e.g. if bar for 4 sterne have been clicked it should filter all the review for 4 Sterne).
+
 (iv) By using Sortierung Relevanz option whether reviews are displaying after sorting or not
 
 3. (i) Yes, Non functional testing such as Performance Testing can be performed in the page to check the response time of the application such as how much time it is taking to load the application. It can be performed by decresing or increasing the load in the application. 
